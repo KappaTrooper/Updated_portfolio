@@ -1,0 +1,18 @@
+/* src/styles/variables.css */
+:root{
+  --bg: #cfcfcf;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --line: rgba(0,0,0,0.08);
+
+  --accent: #c0562d;
+
+  --radius-lg: 18px;
+  --max: 1200px;
+
+  --space-1: 8px;
+  --space-2: 12px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+}
